@@ -1,4 +1,4 @@
-# Sports Activity Recognition using Optical Flow and Convolution neural networks.
+# Sports Activity Estimation using Optical Flow and Convolution neural networks.
 A Deep learning model which recognises the sport actions in the video. This approach is unique from the existing models
 because it learns from the optical flow extracted from the keyframes in the video. I have used the Resnet50
 architecture and have obtained a train accuracy over 87% percent. The overall computational power required has been
